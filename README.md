@@ -26,7 +26,7 @@ Two regression algorithms, Multiple Linear Regression and Random Forest Regressi
 - Handles nonlinear patterns in housing data.
 - Applies GridSearchCV for hyperparameter optimization.
 
-## ⚙️ Methodology
+##  Methodology
 
 1. **Data Preprocessing**
    - Handle categorical features using binary encoding and one-hot encoding.
@@ -69,4 +69,7 @@ Root Mean Squared Error (RMSE)
 - **Model Optimization:** GridSearchCV
 
 
+## Project Links
+Kaggle Notebook: House Price Prediction
 
+GitHub Repository: House-Price-Prediction
