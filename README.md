@@ -70,5 +70,6 @@ Root Mean Squared Error (RMSE)
 
 
 ## Project Links
-Kaggle Notebook: https://www.kaggle.com/code/mafruda/house-price-prediction?scriptVersionId=372242329 
+Kaggle Notebook: https://www.kaggle.com/code/mafruda/house-price-prediction
+
 GitHub Repository: 
